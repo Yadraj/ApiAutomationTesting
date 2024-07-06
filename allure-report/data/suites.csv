@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 06 20:51:23 IST 2024","Sat Jul 06 20:51:27 IST 2024","3667","Default Suite","ApiAutomationTesting","misc.misc001","misc.misc001","postRequest","postRequest",""
