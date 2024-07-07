@@ -1,5 +1,6 @@
 package org.example.Base;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import org.example.Actions.AssertActions;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -22,22 +23,38 @@ public class BaseTest {
 
 
 
-    @BeforeMethod
-    public void setConfig() {
+                @BeforeMethod(alwaysRun = true)
+                public void setConfig() {
 
-        System.out.println("I am able to run");
-        payloadManager = new PayloadManager();
-        actions = new AssertActions();
-        requestSpecification = RestAssured.given()
-                .baseUri(ApiConstants.Base_URL)
-                .contentType(ContentType.JSON);
+                    payloadManager = new PayloadManager();
+                    actions = new AssertActions();
+                    requestSpecification = RestAssured.given();
+                    requestSpecification.baseUri(ApiConstants.Base_URL);
+                    requestSpecification.contentType(ContentType.JSON);
 
-//        requestSpecification = new RequestSpecBuilder()
+//              requestSpecification = new RequestSpecBuilder()
 //                .setBaseUri(APIConstants.BASE_URL)
 //                .addHeader("Content-Type", "application/json")
 //                .build().log().all();
 
-    }
+                }
+
+
+                public String getToken() throws JsonProcessingException {
+
+                        requestSpecification = RestAssured.given().baseUri(ApiConstants.Base_URL).basePath("/auth")
+                                .contentType(ContentType.JSON);
+                        String payload = PayloadManager.setToken();
+                        response=requestSpecification.body(payload).when().post();
+                        validatableResponse=response.then();
+
+                        jsonPath = new JsonPath(response.asString());
+                        return jsonPath.getString("token");
+
+
+                }
+
+
 
 
 }

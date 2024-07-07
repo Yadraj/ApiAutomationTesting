@@ -17,9 +17,8 @@ public class TC_CreatingBooking extends BaseTest {
     @Test(groups = {"staging,P0"})
     @Owner("yadraj")
     @Severity(SeverityLevel.CRITICAL)
-    @Description("verify negative test case")
-
-    public void postReq() throws JsonProcessingException, io.qameta.allure.internal.shadowed.jackson.core.JsonProcessingException {
+    @Description("verify  positive test case with payload")
+    public void postReq() throws JsonProcessingException {
 
 
 
@@ -38,10 +37,19 @@ public class TC_CreatingBooking extends BaseTest {
 
        BookingResponse bookingResponse =  PayloadManager.JsonToObject(response.asString());
        assertThat(bookingResponse.getBookingid()).isNotNull();
+    }
 
 
+    @Test(groups = {"staging,P0"})
+    @Owner("yadraj")
+    @Severity(SeverityLevel.CRITICAL)
+    @Description("verify negative test case without paylaod")
+    public void postReq_Negative() throws JsonProcessingException{
 
-
+        requestSpecification.basePath(ApiConstants.CREATE_BOOKING);
+        response = requestSpecification.when().body("").post();
+        validatableResponse = response.then().log().all();
+        validatableResponse.statusCode(500);
 
     }
 }
