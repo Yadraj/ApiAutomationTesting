@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 07 08:33:18 IST 2024","Sun Jul 07 08:33:21 IST 2024","2868","Default Suite","ApiAutomationTesting","crud.TC_CreatingBooking","crud.TC_CreatingBooking","postReq","postReq","verify negative test case"
 "passed","Sat Jul 06 20:51:23 IST 2024","Sat Jul 06 20:51:27 IST 2024","3667","Default Suite","ApiAutomationTesting","misc.misc001","misc.misc001","postRequest","postRequest",""
+"passed","Sun Jul 07 08:47:44 IST 2024","Sun Jul 07 08:47:46 IST 2024","2359","All Test Suite","ApiAutomationTesting","org.example.crud.TC_CreatingBooking","org.example.crud.TC_CreatingBooking","postReq","postReq","verify negative test case"

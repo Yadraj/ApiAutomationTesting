@@ -1,4 +1,4 @@
-package Actions;
+package org.example.Actions;
 
 import io.restassured.response.Response;
 

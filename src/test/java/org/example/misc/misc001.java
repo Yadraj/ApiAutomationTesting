@@ -1,4 +1,4 @@
-package misc;
+package org.example.misc;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

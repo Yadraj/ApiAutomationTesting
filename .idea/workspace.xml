@@ -5,14 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72b7cac6-9cef-4706-a220-9d3d8115e8df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/endpoints/ApiConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/misc/misc001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02206d4c-c4b9-4e2e-8c0c-e9d350b24aec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/047fa921-5a07-4303-ba72-2ce4fd143ff0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/080ae782-b36b-4dbf-abde-71ca091d1a0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/156c858b-57a3-42d9-8674-5f63951fa3e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1dee905a-b628-4703-acf8-d4137e6d6b84-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2714e1a7-80f7-4536-b8d2-c86b3f42d98a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/277fb550-6efc-4afe-8a4a-7dfdbf8784b9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2d48043d-ed6c-4250-ac7b-18b6c9ca3349-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e149a6b-75ce-4616-ae0d-c6cc2c07ef9f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4088937b-cb2e-42b5-ab06-4da38632f54c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4b1442a9-9644-484a-80b1-6497cb09277d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4eb85e82-88b7-4320-9353-a970e271e9fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/506bfb99-108f-433c-96be-137ab80e5d04-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/52eff117-65e7-433a-a8a9-7bb4b009d36b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/53a26417-7f45-4bd3-9f39-d1d1c6b29619-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/53bf982e-c5c6-49de-8ea0-f8cf5767651b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/578bbe36-6429-4f87-be2a-147fb89eb786-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/653bf113-35a5-48cb-a117-23cfb1d4ad0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65b6690b-9cc7-40fc-a0bd-5283f95b3f21-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/85775ffe-e6c7-465c-96a9-1348279db0b6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8655a3c7-e20c-45f6-bf6c-df05e28db5b7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/87fedba8-de14-43ad-b031-ba0a6348a8fc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ef4a614-740b-4677-a761-4e824eb4197a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/adf3a8cf-9b37-4739-8442-2009f29eda9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1453e1e-262b-450f-b1fc-ab4d285ffe79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1bceaa1-da73-4c7e-bc62-978af4a18ae9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d20abcb3-69b1-4420-94c1-8ffa26f59c7c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d96ce15f-2b2e-494b-9858-d9fd785584ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d9b13f61-e7ee-466d-85a4-88c9c55b48b7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e56ae052-636f-47ad-8f09-d2721ba787ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee0c63fe-660f-464c-846a-ca119526a4e2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3cae20b-1cc9-4581-82a7-09a336b81d3b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f4dd340c-9a6b-41a5-9127-319305250f28-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f4e6a300-9201-444e-9af0-545459acbb2d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fdc347bf-84dc-44ee-95cd-08af5253b37c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/payloads/response/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/crud/TC_CreatingBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/modules/PayloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/payloads/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/payloads/request/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/payloads/Bookingdates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/payloads/request/Bookingdates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Actions/AssertActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Actions/AssertActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/crud/TC_CreatingBooking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/misc/misc001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/misc/misc001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Staging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Staging.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,26 +63,33 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2irykDbMPWDL7sVtpJQrdN5hc5u" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Lenovo/IdeaProjects/ApiAutomationTesting/testng_Staging.xml.executor": "Run",
+    "TestNG.TC_CreatingBooking.executor": "Run",
     "TestNG.misc001.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -57,7 +104,34 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/Lenovo/IdeaProjects/ApiAutomationTesting/testng_Staging.xml">
+    <configuration name="C:/Users/Lenovo/IdeaProjects/ApiAutomationTesting/testng_Staging.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutomationTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Staging.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_CreatingBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiAutomationTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="crud" />
+      <option name="MAIN_CLASS_NAME" value="crud.TC_CreatingBooking" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="misc001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ApiAutomationTesting" />
       <extension name="coverage">
@@ -77,6 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Lenovo/IdeaProjects/ApiAutomationTesting/testng_Staging.xml" />
+        <item itemvalue="TestNG.TC_CreatingBooking" />
         <item itemvalue="TestNG.misc001" />
       </list>
     </recent_temporary>
@@ -98,10 +174,14 @@
       <option name="presentableId" value="Default" />
       <updated>1720263134323</updated>
       <workItem from="1720263135667" duration="2055000" />
+      <workItem from="1720309937202" duration="6705000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
